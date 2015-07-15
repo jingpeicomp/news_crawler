@@ -1,0 +1,4 @@
+*.log
+*.pyc
+data/
+.idea/
